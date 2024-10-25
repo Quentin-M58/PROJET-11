@@ -1,13 +1,13 @@
 <h1 align="center">
   PROJET 11<br />
   QWENTA<br />
-  <img alt="Static Badge"
+  <img alt="Valider"
        src="https://img.shields.io/badge/Valider-green?style=for-the-badge"><br />
-  <img alt="Static Badge"
+  <img alt="KANBAN"
        src="https://img.shields.io/badge/KANBAN-blue?style=for-the-badge">
-  <img alt="Static Badge"
+  <img alt="VEILLE"
        src="https://img.shields.io/badge/VEILLE-blue?style=for-the-badge">
-  <img alt="Static Badge"
+  <img alt="AGILE SCRUM"
        src="https://img.shields.io/badge/AGILE%20SCRUM-blue?style=for-the-badge"><br />
 </h1>
 <h2 align="center">DESCRIPTION</h2>
